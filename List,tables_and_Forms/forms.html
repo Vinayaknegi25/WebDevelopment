@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>D</title>
+</head>
+
+<body>
+    <h2>Enter details in the form</h2>
+    <form action="back.php">
+        <input type="text" placeholder="Enter Name">
+        <div>
+            <!-- different labels for different radio buttons -->
+            <label for="agegroupU13">
+                <input type="radio" value="Age" name="Age" id="agegroupU13">Below 13
+            </label>
+            <label for="agegroup13to18">
+                <input type="radio" value="Age" name="Age" id="agegroup13to18">13 to 18
+            </label>
+            <label for="agegroup18to30">
+                <input type="radio" value="Age" name="Age" id="agegroup18to30">18 to 30
+            </label>
+            <label for="agegroup31to65">
+                <input type="radio" value="Age" name="Age" id="agegroup31to65">31 to 65
+            </label>
+        </div>
+        <!-- checkbox syntax is -->
+        <p>Are You Vaccinated?</p>
+        <input type="checkbox" name="RU_vaccinated" id="vaccinatedyes">  
+        <label for="vaccinatedyes">Yes</label>   
+        <input type="checkbox" name="RU_vaccinated" id="vaccinatedno">
+        <label for="vaccinatedno">No</label>  
+        <div>
+            <!-- select sample syntax -->
+            <select>
+                <option value="No-option">Select mode of travel</option>
+                <option value="Car">Car</option>
+                <option value="Bike">Bike</option>
+                <option value="Train">Train</option>
+                <option value="Air">Air Travel</option>
+            </select>
+        </div>
+        <b>Video using iframe</b>
+        <div>
+            <!-- embedding a video using iframe-->
+            <iframe src="road.mp4" frameborder="0" width="780px"></iframe>
+        </div>
+        <b>Video using video tag</b>
+        <div>
+            <!-- embedding a video usi video tag -->
+            <video src="road.mp4" controls autoplay loop width="780px"></video>
+            <!-- controls for pause and play buttons -->
+        </div>
+
+        <!-- text area syntax is -->
+        <div>
+            <textarea name="text_area" id="texta_area" cols="30" rows="10"placeholder="Exaplin travel reason"></textarea>
+        </div>
+
+        <a href="video.html" target="_main">Open Travel Video</a>
+    </form>
+</body>
+</html>
