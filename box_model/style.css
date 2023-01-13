@@ -1,0 +1,23 @@
+.Box{
+    margin: 10px;
+    width: 500px;
+    height: 100px;
+    background-color: rgb(6, 5, 5);
+}
+/* to demonstrate padding   */
+.boxpadding{
+    color: white;
+    padding-left:15px;
+    padding-top:10px;
+    /* we can also write  
+    padding: 10px; */
+}
+
+.decormargin{
+    width: 400px;
+    height:70px;
+    background-color: rgb(168, 168, 182);
+    text-align: center;
+    margin-left:38px;
+    padding: 10px;
+}
