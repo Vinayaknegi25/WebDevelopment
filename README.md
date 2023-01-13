@@ -1,6 +1,6 @@
 # Web Development From Scratch 
 
-## Easy to understand source code with all the useful tags and attrubutes that are in Web development. 
+## Easy-to-understand source code with all the useful tags and attributes that are required for Web development.
 
 1. tags_in_html
 2. page_layout
