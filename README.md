@@ -5,7 +5,7 @@
 1. tags_in_html
 2. page_layout
 3. List,tables_and_Forms
-4. External_nternal and Inline CSS
+4. External_internal and Inline CSS
 5. ids&Class
 6. Background
 7. Font
