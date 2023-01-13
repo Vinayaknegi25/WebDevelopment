@@ -1,0 +1,9 @@
+ul{
+    list-style-type:square;
+    /* to get squared bullet points */
+}
+
+ol{
+    list-style-type: upper-alpha;
+    /* to get upper alphabet in indxing for lists */
+}
