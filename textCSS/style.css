@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#textCSSheading{
+    font-family: monospace;
+    color: violet;
+    letter-spacing: 1em;/*space betweeen letters*/
+    word-spacing: 10px; /*space between words*/
+    text-align: center;
+}
+
+#textCSSpara{
+    text-indent: 45px;
+    color:green;
+    text-align: left;
+    text-transform: uppercase;
+}
