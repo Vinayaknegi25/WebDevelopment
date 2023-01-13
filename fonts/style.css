@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+#fontCSS1{
+    font-family:monospace;
+    font-variant: small-caps; /*to decrease font size keeping it in caps*/ 
+    font-size: 2em;
+    /* iem=10pixel  NOTE: We can also use px*/
+    font-style: oblique;
+    font-weight: bold;
+}
+
+.fontCSS2{
+    font-family: 'Courier New', Courier, monospace;
+    font-variant: normal;
+    font-size: 15px;
+    font-weight: 1; /*we can also give a value between 100 and 900 to font weight*/ 
+    font-style: italic;
+}
