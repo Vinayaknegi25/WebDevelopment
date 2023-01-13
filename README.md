@@ -8,3 +8,4 @@
 4. External_nternal and Inline CSS
 5. ids&Class
 6. Background
+7. Font
