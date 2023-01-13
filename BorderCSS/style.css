@@ -1,0 +1,34 @@
+*{
+    margin:10;
+    padding:0;
+}
+
+.BorderDesign{
+    width:500px;
+    height: 300px;
+    background-color:red;
+    border-width: 12px;
+    border-color: black;
+    border-style: solid;
+}
+
+.borderDesign{
+    width: 600px;
+    height:20vh;
+    border: 2px solid black;
+    border-radius: 12px;
+}
+
+.backImg{
+    background-image: url(smaple.png);
+    background-size: 100% 100%;
+}
+
+.Img2{
+    background-image: url('meme.png');
+    background-size: 100% 100%;
+    width: 800px;
+    height: 700px;
+    border:5px solid yellow;
+    
+}
