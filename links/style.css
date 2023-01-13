@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#textCSS{
+    color:lightpink;
+    text-align :center;  
+    direction: ltr;  
+}
+/* color for unvisited links */
+a:link{
+    color:red;
+}
+/* colot for visited links */
+a:visited{
+    color:green;
+}
+/* color when we hover the mouse on the anchor tag link */
+a:hover{
+    color:orange;
+}
+/* selected link color that we will get on clicking the link for a second */
+a:active{
+    color:rgb(0, 0, 0);
+}
