@@ -17,3 +17,4 @@
 13. Scroll Bar
 14. Position
 15. Z-index
+16. Float & Display
