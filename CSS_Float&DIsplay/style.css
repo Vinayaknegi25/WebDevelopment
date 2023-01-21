@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    width: 100%;
+    height: 90px;
+    background-color: green;
+}
+.logo{
+    width: 35%;
+    line-height: 90px;
+    /* line height is used to get the text in the middle */
+    background-color:blue;
+    text-align: center;
+    float: left;
+}
+.menu{
+    width: 65%;
+    height: 90px;
+    /* line height is used to get the text in the middle */
+    background-color:beige;
+    float: right;
+}
+
+ul{
+    list-style: none;
+}
+li{
+    display: inline-block;
+    border:1px solid black;
+    padding: 5px;
+
+}
+
+.tac{
+    line-height: 90px; ;
+    text-align: center;
+}
