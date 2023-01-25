@@ -19,3 +19,4 @@
 15. Z-index
 16. Float & Display
 17. Cursor
+18. JS Basics
