@@ -20,3 +20,5 @@
 16. Float & Display
 17. Cursor
 18. JS Basics
+19. JS inside HTML
+20. Conditionals in JS, AND, OR, Switch Case in JavaScript
