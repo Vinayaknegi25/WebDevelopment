@@ -21,4 +21,7 @@
 17. Cursor
 18. JS Basics
 19. JS inside HTML
-20. Conditionals in JS, AND, OR, Switch Case in JavaScript
+20. Conditionals in JS, AND, OR, Switch Case in JavaScript.
+21. Loops
+22. JS Functions
+23. Methods Practice
